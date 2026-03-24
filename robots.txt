@@ -1,0 +1,11 @@
+
+User-agent: *
+Allow: /
+Disallow: /risks-benefits/
+Disallow: /blog/erectile-dysfunction/rugiet-health-about
+Disallow: /sex-age/
+Disallow: /sex-score/
+
+
+# Sitemaps
+Sitemap: https://www.rugiet.com/sitemap.xml
